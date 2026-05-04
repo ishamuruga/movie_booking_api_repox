@@ -1,4 +1,4 @@
-package com.moviebooking.controller;
+pkg com.moviebooking.controller;
 
 import com.moviebooking.dto.request.BookingRequest;
 import com.moviebooking.dto.response.BookingResponse;
