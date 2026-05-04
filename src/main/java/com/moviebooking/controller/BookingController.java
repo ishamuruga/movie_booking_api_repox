@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/api")
 public class BookingController {
 
-    private static final Logger log = LoggerFactory.getLogger(BookingController.class)
+    private static final Logger log = LoggerFactory.getLogger(BookingController.class);
 
     private final BookingService bookingService;
 
